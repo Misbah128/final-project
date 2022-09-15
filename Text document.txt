@@ -1,0 +1,61 @@
+# Syed Hussain
+# 09/14/2022
+
+Main file Module:
+
+# This is the main file for my game, this game is going to use this main file to run all my 5 chapters from it!
+# Additionally to all 5 chapters of the game, I have imported globalvars and functions module into it.
+# This main file also have introduction of the game, where it introduces what this game is going to about!
+
+Globalvars Module:
+
+# I have all the variables listed in this module.
+# I am going to use this global variables in my main file module and as well as on all my 5 chapters nodules!
+
+Functions Module:
+
+# The function module has all the fail messages laid out for the game chapters.
+# I am going to use this functions module fail messages for my 5 chapters and as well as for the main file!
+
+Chapter1 Module:
+
+# The scene of level 1 is Ronny comes across a town (Bangkok); local tell him a direction towards Raghav building.
+# This module will ask user if he want to start the game if he say yes it will start otherwise it will exit.
+# Ronny interacts with the locals and find out the direction.
+# This module will ask user to enter what direction he wants to head, if he inserted the right directions from locals
+# User will win this level otherwise the user has to play again!
+
+Chapter2 Module:
+
+# The scene of the level 2 is Player comes across a building.
+# This module will ask user if he want to start the game if he say yes it will start otherwise it will exit.
+# Ronny now has to distract guards from the building so he can enter.
+# This module will ask user to enter the right weapon to distract the guards.
+# If user choose the right weapon than he will win this level otherwise the user has to play again!
+
+Chapter3 Module:
+
+# The scene of the level 3 is Player comes across martial arts experts.
+# This module will ask user if he want to start the game if he say yes it will start otherwise it will exit.
+# Ronny now has to kill guards but he only have 1 chance to kill (all at once).
+# This module will ask user to enter the right weapon to distract the guards.
+# If user choose the right weapon than he will win this level otherwise the user has to play again!
+
+Chapter4 Module:
+
+# The scene of the level 4 is Player comes across a riddle.
+# This module will ask user if he want to start the game if he say yes it will start otherwise it will exit.
+# Ronny now has to solve the riddle to unlock the door for level 5.
+# This module will ask user to enter the right answer for the riddle (This riddle has possible 3 answers).
+# If user answer it right than he will win this level otherwise the user has to play again!
+
+Chapter5 Module:
+
+# This is the final fight of the game where Ronny fights against Raghav.
+# This module will ask user if he want to start the game if he say yes it will start otherwise it will exit.
+# Ronny now has to kill Raghav but he only have 3 weapon left from his weapon list (Knief, Sword, or Dagger).
+# This module will ask user to enter the right weapon to he has so he can use to kill Raghav.
+# If user choose the right weapon than he will win the final round otherwise the user has to play again!
+# After winning this game he gets his partner back and will win the whole game.
+# User will also have option to play the game again!
+
